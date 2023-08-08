@@ -8,7 +8,7 @@ import android.widget.Toast
 
 class MainActivity : Activity() {
 
-    private var count = 0
+    private var count = 1
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
